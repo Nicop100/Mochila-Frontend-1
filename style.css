@@ -1,0 +1,86 @@
+body {font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: #005677;
+    text-align: center;
+    font-size: 35px;
+    background-color: #C4C4C4;
+    letter-spacing: 10px;
+    word-spacing: 1px;
+    margin-bottom: 125px;
+    margin-top: 0%;
+
+}
+
+h2{
+    font-size: 20px;
+    color: #005677;
+    background-color:#C4C4C4;
+    letter-spacing: 10px;
+    word-spacing: 1px;
+    
+
+}
+
+#contacto{
+    font-size: 20px;
+    text-align: center;
+    color: #FFFFFF;
+    background-color:#005677;
+    letter-spacing: normal;
+    
+}
+
+
+
+.foto{
+text-align: center;
+height: 10%;
+width: 10%;
+}
+
+div{
+    text-align: center;  
+    text-transform: uppercase;  
+}
+
+header
+{
+   background-image: url("http://www.cvhldgs.com/wp-content/uploads/2017/03/bg.jpg");
+   width: 100%;
+   height: 300px;
+   border: black 1px solid;
+     
+    
+}
+
+#lista{
+    margin-bottom: 120px;
+}
+
+#Nico{
+    height: 150px;
+    width: 10%;
+    border: black 1px solid;
+    
+ 
+}
+
+#Instagram{
+background-color: #005677;
+opacity: 0,5;
+
+}
+
+#Linkedin{
+opacity: 0,5;
+    background-color: #005677;
+}
+
+section{
+
+    height: 140px;
+    
+    
+}
